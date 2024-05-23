@@ -3,6 +3,14 @@ Materi Belajar Data Engineering 2024 :
 2. Python
 3. SQL
 4. Git & Github
+    - git branch
+    - git status
+    - git git diff
+    - git add
+    - git commit
+    - git log
+    - git push
+    - git merge
 5. Datawarehouse & Data Modelling - Relational Data Model
 6. Business Intelligence
 
