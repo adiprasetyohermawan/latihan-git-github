@@ -1,0 +1,7 @@
+Materi Belajar Data Engineering 2024 :
+1. Introduction Data Engineer (DE) - Big Data
+2. Python
+3. SQL
+4. Git & Github
+5. Datawarehouse & Data Modelling - Relational Data Model
+6. Business Intelligence
