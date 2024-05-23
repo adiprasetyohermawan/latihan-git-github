@@ -2,7 +2,29 @@ Materi Belajar Data Engineering 2024 :
 1. Introduction Data Engineer (DE) - Big Data
 2. Python
 3. SQL
+    - DDL
+    - DML
+    - Where condition
+    - Limit
+    - Distinct
+    - Case when
+    - Agregate
+    - Group by
+    - Order by
+    - Having
+    - Like
+    - Join
+    - Subquery
+    - CTE
 4. Git & Github
+    - git branch
+    - git status
+    - git git diff
+    - git add
+    - git commit
+    - git log
+    - git push
+    - git merge
 5. Datawarehouse & Data Modelling - Relational Data Model
 6. Business Intelligence
 
