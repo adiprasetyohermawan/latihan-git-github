@@ -5,3 +5,7 @@ Materi Belajar Data Engineering 2024 :
 4. Git & Github
 5. Datawarehouse & Data Modelling - Relational Data Model
 6. Business Intelligence
+
+Project 1 :
+1. Membuat desain relational dari database DWH, terdiri dari fact & dimensional Table
+> Output : ERD
