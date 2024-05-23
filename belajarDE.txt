@@ -9,3 +9,5 @@ Materi Belajar Data Engineering 2024 :
 Project 1 :
 1. Membuat desain relational dari database DWH, terdiri dari fact & dimensional Table
 > Output : ERD
+2. Membuat Format DDL dari fact & dimensional table dari database DWH
+> Output : DDL
